@@ -1,4 +1,4 @@
-### Hi there 👋
+### Reinaldo M R Junir >> Welcome << 👋
 
 <!--
 **reinaldorossetti/reinaldorossetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs - HTML is last](https://github-readme-stats.vercel.app/api/top-langs/?username=weslleynasrocha&theme=dracula)](https://github.com/reinaldorossetti/github-readme-stats)
+[![Top Langs - HTML is last](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldorossetti&theme=dracula)](https://github.com/reinaldorossetti/github-readme-stats)
 
 ![reinaldorossetti GitHub stats](https://github-readme-stats.vercel.app/api?username=reinaldorossetti&show_icons=true&theme=dracula)
