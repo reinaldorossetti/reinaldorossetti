@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 [![Top Langs - HTML is last](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldorossetti&theme=dracula)](https://github.com/reinaldorossetti/github-readme-stats)
 
 ![reinaldorossetti GitHub stats](https://github-readme-stats.vercel.app/api?username=reinaldorossetti&show_icons=true&theme=dracula)
+
+MY UDEMY COURSE:
+https://www.udemy.com/course/selenium-webdriver-basico-com-behave-e-python-3/
+https://github.com/reinaldorossetti/udemy_behave_curso
