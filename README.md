@@ -1,13 +1,13 @@
 ### Reinaldo M R Junir >> Welcome << 👋
 
-Bom dia pessoal, sou especialista em automação de testes, segue alguns projetos de automação:
+Bom dia pessoal, sou especialista em automação de testes, segue alguns projetos de automação:  
 
-JAVA com Playwright:
-https://github.com/reinaldorossetti/playwright-java.git
-Report: https://reinaldorossetti.github.io/playwright-java/chrome/
+JAVA com Playwright:  
+https://github.com/reinaldorossetti/playwright-java.git  
+Report: https://reinaldorossetti.github.io/playwright-java/chrome/  
 
-KOTLIN com Playwright:
-https://github.com/reinaldorossetti/playwright-kotlin-junit5.git
+KOTLIN com Playwright:  
+https://github.com/reinaldorossetti/playwright-kotlin-junit5.git  
 
 
 <!--
