@@ -1,5 +1,15 @@
 ### Reinaldo M R Junir >> Welcome << 👋
 
+Bom dia pessoal, sou especialista em automação de testes, segue alguns projetos de automação:
+
+JAVA com Playwright:
+https://github.com/reinaldorossetti/playwright-java.git
+Report: https://reinaldorossetti.github.io/playwright-java/chrome/
+
+KOTLIN com Playwright:
+https://github.com/reinaldorossetti/playwright-kotlin-junit5.git
+
+
 <!--
 **reinaldorossetti/reinaldorossetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +28,8 @@ Here are some ideas to get you started:
 [![Top Langs - HTML is last](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldorossetti&theme=dracula)](https://github.com/reinaldorossetti/github-readme-stats)
 
 ![reinaldorossetti GitHub stats](https://github-readme-stats.vercel.app/api?username=reinaldorossetti&show_icons=true&theme=dracula)
+
+
 
 MY UDEMY COURSE:
 https://www.udemy.com/course/selenium-webdriver-basico-com-behave-e-python-3/
