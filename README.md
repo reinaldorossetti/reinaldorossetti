@@ -13,10 +13,10 @@ Kotlin com REST Assured (API tests):
 Medium Post: https://reiload-88128.medium.com/testando-o-serverest-com-kotlin-e-rest-assured-163088df3e57  
 Projeto: https://github.com/reinaldorossetti/rest-assured-kotlin  
 
-Kotlin com Appium (Mobile tests)
+Kotlin com Appium (Mobile tests):  
 Projeto: https://github.com/reinaldorossetti/KotlinAppium
 
-Kotlin Mutation Test
+Kotlin Mutation Test (Unit tests):  
 Projeto: https://github.com/reinaldorossetti/mutation_testing_android
 
 <!--
