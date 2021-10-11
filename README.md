@@ -2,16 +2,22 @@
 
 Bom dia pessoal, sou especialista em automação de testes, segue alguns projetos de automação:  
 
-JAVA com Playwright:  
+Java com Playwright:  
 Projeto: https://github.com/reinaldorossetti/playwright-java.git  
 Report: https://reinaldorossetti.github.io/playwright-java/chrome/  
 
-KOTLIN com Playwright:  
+Kotlin com Playwright (Web tests):  
 Projeto: https://github.com/reinaldorossetti/playwright-kotlin-junit5.git  
 
-KOTLIN com REST Assured:  
+Kotlin com REST Assured (API tests):  
 Medium Post: https://reiload-88128.medium.com/testando-o-serverest-com-kotlin-e-rest-assured-163088df3e57  
 Projeto: https://github.com/reinaldorossetti/rest-assured-kotlin  
+
+Kotlin com Appium (Mobile tests)
+Projeto: https://github.com/reinaldorossetti/KotlinAppium
+
+Kotlin Mutation Test
+Projeto: https://github.com/reinaldorossetti/mutation_testing_android
 
 <!--
 **reinaldorossetti/reinaldorossetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
