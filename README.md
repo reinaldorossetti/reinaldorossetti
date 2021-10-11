@@ -3,12 +3,15 @@
 Bom dia pessoal, sou especialista em automação de testes, segue alguns projetos de automação:  
 
 JAVA com Playwright:  
-https://github.com/reinaldorossetti/playwright-java.git  
+Projeto: https://github.com/reinaldorossetti/playwright-java.git  
 Report: https://reinaldorossetti.github.io/playwright-java/chrome/  
 
 KOTLIN com Playwright:  
-https://github.com/reinaldorossetti/playwright-kotlin-junit5.git  
+Projeto: https://github.com/reinaldorossetti/playwright-kotlin-junit5.git  
 
+KOTLIN com REST Assured:
+Medium Post: https://reiload-88128.medium.com/testando-o-serverest-com-kotlin-e-rest-assured-163088df3e57
+Projeto: https://github.com/reinaldorossetti/rest-assured-kotlin
 
 <!--
 **reinaldorossetti/reinaldorossetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
