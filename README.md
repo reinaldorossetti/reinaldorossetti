@@ -8,6 +8,7 @@ Report: https://reinaldorossetti.github.io/playwright-java/chrome/
 
 Kotlin com Playwright (Web tests):  
 Projeto: https://github.com/reinaldorossetti/playwright-kotlin-junit5.git  
+Report: https://reinaldorossetti.github.io/playwright-kotlin-junit5/chrome/#  
 
 Kotlin com REST Assured (API tests):  
 Medium Post: https://reiload-88128.medium.com/testando-o-serverest-com-kotlin-e-rest-assured-163088df3e57  
