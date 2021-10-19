@@ -8,7 +8,7 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldorossetti&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-
+<br><br>
 
 Java com Playwright:  
 Projeto: https://github.com/reinaldorossetti/playwright-java.git  
