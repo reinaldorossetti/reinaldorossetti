@@ -6,7 +6,9 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
   <a href="https://github.com/reinaldorossetti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinaldorossetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldorossetti&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
+
 
 Java com Playwright:  
 Projeto: https://github.com/reinaldorossetti/playwright-java.git  
