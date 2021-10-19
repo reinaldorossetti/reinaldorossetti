@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 
 
-MY UDEMY COURSE:
-https://www.udemy.com/course/selenium-webdriver-basico-com-behave-e-python-3/
-https://github.com/reinaldorossetti/udemy_behave_curso
+MY UDEMY COURSE:  
+https://www.udemy.com/course/selenium-webdriver-basico-com-behave-e-python-3/  
+https://github.com/reinaldorossetti/udemy_behave_curso  
 
-EXEMPLO DE RUBY COM CUCUMBER(branch main projeto em branco):
-https://github.com/reinaldorossetti/ruby-cucumber
+EXEMPLO DE RUBY COM CUCUMBER(branch main projeto em branco):  
+https://github.com/reinaldorossetti/ruby-cucumber  
