@@ -1,6 +1,6 @@
 ### Reinaldo M R Junir >> Welcome << 👋
 
-Bom dia pessoal, sou especialista em automação de testes, segue alguns projetos de automação:  
+Bom dia pessoal, sou especialista em automação de testes, segue alguns projetos de automação como referência e boas práticas:  
 
 Java com Playwright:  
 Projeto: https://github.com/reinaldorossetti/playwright-java.git  
