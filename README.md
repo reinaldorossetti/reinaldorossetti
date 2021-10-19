@@ -52,3 +52,5 @@ https://www.udemy.com/course/automacao-de-testes-com-capybara-cucumber-e-ruby
 
 EXEMPLO DE RUBY COM CUCUMBER (branch main projeto em branco):  
 https://github.com/reinaldorossetti/ruby-cucumber  
+https://github.com/reinaldorossetti/automationpractice_web  
+https://github.com/reinaldorossetti/automationpractice_mobile  
