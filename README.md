@@ -50,7 +50,7 @@ https://github.com/reinaldorossetti/udemy_behave_curso
 COURSE CAPYBARA IN RUBY:    
 https://www.udemy.com/course/automacao-de-testes-com-capybara-cucumber-e-ruby    
 
-EXEMPLO DE RUBY COM CUCUMBER (branch main projeto em branco):  
+EXEMPLO DE AUTOMAÇÕES EM RUBY:  
 https://github.com/reinaldorossetti/ruby-cucumber  
 https://github.com/reinaldorossetti/automationpractice_web  
 https://github.com/reinaldorossetti/automationpractice_mobile  
