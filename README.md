@@ -22,7 +22,7 @@ Kotlin com REST Assured (API tests):
 Medium Post: https://reiload-88128.medium.com/testando-o-serverest-com-kotlin-e-rest-assured-163088df3e57  
 Projeto: https://github.com/reinaldorossetti/rest-assured-kotlin  
 Report: https://reinaldorossetti.github.io/rest-assured-kotlin/index.html#suites 
-Vídeo: https://www.youtube.com/watch?v=DfNLaGjjN4o
+Vídeo: https://www.youtube.com/watch?v=DfNLaGjjN4o  
 
 Kotlin com Appium (Mobile tests):  
 Projeto: https://github.com/reinaldorossetti/KotlinAppium
