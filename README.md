@@ -50,9 +50,9 @@ https://www.udemy.com/course/selenium-webdriver-basico-com-behave-e-python-3/
 https://github.com/reinaldorossetti/udemy_behave_curso   
 COURSE CAPYBARA IN RUBY:    
 https://www.udemy.com/course/automacao-de-testes-com-capybara-cucumber-e-ruby    
-Ruby com HttParty:
-Project: https://github.com/reinaldorossetti/ruby-api-httparty
-Report: https://reinaldorossetti.github.io/ruby-api-httparty/
+Ruby com HttParty:  
+Project: https://github.com/reinaldorossetti/ruby-api-httparty  
+Report: https://reinaldorossetti.github.io/ruby-api-httparty/  
 
 
 EXEMPLO DE AUTOMAÇÕES EM RUBY:  
