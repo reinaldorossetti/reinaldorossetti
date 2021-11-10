@@ -55,7 +55,12 @@ Project: https://github.com/reinaldorossetti/ruby-api-httparty
 Report: https://reinaldorossetti.github.io/ruby-api-httparty/  
 Ruby com HttParty e Cucumber:  
 Project: https://github.com/reinaldorossetti/ruby_cucumber_httparty  
-Report: https://reinaldorossetti.github.io/ruby_cucumber_httparty/    
+Report: https://reinaldorossetti.github.io/ruby_cucumber_httparty/   
+Ruby com Playwright e Capybara:
+https://github.com/reinaldorossetti/ruby_cucumber_capybara_playwright
+Reports:
+https://reinaldorossetti.github.io/ruby_cucumber_capybara_playwright/chromium/
+https://reinaldorossetti.github.io/ruby_cucumber_capybara_playwright/firefox/
 
 EXEMPLO DE AUTOMAÇÕES EM RUBY:  
 https://github.com/reinaldorossetti/ruby-cucumber  
