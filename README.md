@@ -77,6 +77,7 @@ https://github.com/reinaldorossetti/automationpractice_mobile
 <img src="https://img.icons8.com/color/48/000000/python.png"> &nbsp;
 <img src="https://img.icons8.com/clouds/50/000000/ruby-programming-language.png"/> &nbsp;
 
+<h3>Linkedin</h3>
 <a rel="nofollow" href="https://www.linkedin.com/in/reinaldo-mateus-rossetti-a28a5423/">
 <img src="https://img.icons8.com/color/48/000000/linkedin.png">
  
