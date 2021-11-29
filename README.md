@@ -73,8 +73,8 @@ https://github.com/reinaldorossetti/automationpractice_mobile
 
 <h3>Skills</h3>
 
-<img src="https://img.icons8.com/color/48/000000/kotlin.png"/><br>
-<img src="https://img.icons8.com/color/48/000000/python.png"><br>
+<img src="https://img.icons8.com/color/48/000000/kotlin.png"/> &nbsp;
+<img src="https://img.icons8.com/color/48/000000/python.png"> &nbsp;
 <img src="https://img.icons8.com/clouds/50/000000/ruby-programming-language.png"/> &nbsp;
  
   
