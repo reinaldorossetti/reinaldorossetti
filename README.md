@@ -71,6 +71,9 @@ https://github.com/reinaldorossetti/ruby-cucumber
 https://github.com/reinaldorossetti/automationpractice_web  
 https://github.com/reinaldorossetti/automationpractice_mobile  
 
+Projeto usando Robot para testes de API:
+https://github.com/reinaldorossetti/robot_openweather_api  
+Report: https://reinaldorossetti.github.io/robot_openweather_api/allure-results/
 <h3>Skills</h3>
 
 <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> &nbsp;
