@@ -11,28 +11,32 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
 <br><br>
 
 Java com Playwright:  
-Projeto: https://github.com/reinaldorossetti/playwright-java.git  
+Project: https://github.com/reinaldorossetti/playwright-java.git  
 Report: https://reinaldorossetti.github.io/playwright-java/chrome/  
 
 Kotlin com Playwright (Web tests):  
-Projeto: https://github.com/reinaldorossetti/playwright-kotlin-junit5.git  
+Project: https://github.com/reinaldorossetti/playwright-kotlin-junit5.git  
 Report: https://reinaldorossetti.github.io/playwright-kotlin-junit5/chrome/#  
 
 Kotlin com REST Assured (API tests):  
 Medium Post: https://reiload-88128.medium.com/testando-o-serverest-com-kotlin-e-rest-assured-163088df3e57  
-Projeto: https://github.com/reinaldorossetti/rest-assured-kotlin  
+Project: https://github.com/reinaldorossetti/rest-assured-kotlin  
 Report: https://reinaldorossetti.github.io/rest-assured-kotlin/index.html#suites   
 Vídeo: https://www.youtube.com/watch?v=DfNLaGjjN4o  
 
 Kotlin com Appium (Mobile tests):  
-Projeto: https://github.com/reinaldorossetti/KotlinAppium
+Project: https://github.com/reinaldorossetti/KotlinAppium
 
 Kotlin Mutation Test (Unit tests):  
-Projeto: https://github.com/reinaldorossetti/mutation_testing_android
+Project: https://github.com/reinaldorossetti/mutation_testing_android
 
 Testes de Carga com Jmeter DSL e Kotlin:  
-Projeto: https://github.com/reinaldorossetti/jmeterKotlin  
+Project: https://github.com/reinaldorossetti/jmeterKotlin  
 Report: https://reinaldorossetti.github.io/jmeterKotlin/18112021/  
+
+Robot Framework e Git Actions
+Project: https://github.com/reinaldorossetti/robot_samples_api_test
+Report: https://reinaldorossetti.github.io/robot_samples_api_test/allure-results/
 
 <!--
 **reinaldorossetti/reinaldorossetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
