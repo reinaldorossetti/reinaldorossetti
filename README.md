@@ -10,11 +10,11 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
 </div>
 <br><br>
 Robot Framework e Git Actions:  
-Project: https://github.com/reinaldorossetti/robot_samples_api_test  
+Project: https://github.com/reinaldorossetti/robot_samples_api_test  <br>
 Report: https://reinaldorossetti.github.io/robot_samples_api_test/allure-results/  
 <br>
 Cypress com Allure Report:    
-Project: https://github.com/reinaldorossetti/cypress-intermediario-v2  
+Project: https://github.com/reinaldorossetti/cypress-intermediario-v2  <br>
 Report: https://reinaldorossetti.github.io/cypress-intermediario-v2/allure-report  
 
 Java com Playwright:  
