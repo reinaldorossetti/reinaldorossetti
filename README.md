@@ -10,9 +10,9 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
 </div>
 <br><br>
 
-Cypress com Allure Report:  
-Project: [https://github.com/reinaldorossetti/playwright-java.git ](https://github.com/reinaldorossetti/cypress-intermediario-v2) 
-Report: [https://reinaldorossetti.github.io/playwright-java/chrome/  ](https://reinaldorossetti.github.io/cypress-intermediario-v2/allure-report/)
+Cypress com Allure Report:    
+Project: [https://github.com/reinaldorossetti/playwright-java.git ](https://github.com/reinaldorossetti/cypress-intermediario-v2)   
+Report: [https://reinaldorossetti.github.io/playwright-java/chrome/  ](https://reinaldorossetti.github.io/cypress-intermediario-v2/allure-report/)  
 
 Java com Playwright:  
 Project: https://github.com/reinaldorossetti/playwright-java.git  
