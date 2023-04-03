@@ -11,8 +11,8 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
 <br><br>
 Robot Framework e Git Actions:  
 Project: https://github.com/reinaldorossetti/robot_samples_api_test    
-Report: https://reinaldorossetti.github.io/robot_samples_api_test/allure-results/    
-
+Report: https://reinaldorossetti.github.io/robot_samples_api_test/allure-results/      
+<br>
 Cypress com Allure Report:    
 Project: [https://github.com/reinaldorossetti/cypress-intermediario-v2 ](https://github.com/reinaldorossetti/cypress-intermediario-v2)   
 Report: [https://reinaldorossetti.github.io/cypress-intermediario-v2/allure-report ](https://reinaldorossetti.github.io/cypress-intermediario-v2/allure-report/)  
