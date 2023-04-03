@@ -9,7 +9,7 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
   </a>
 </div>
 <br><br>
-Robot Framework e Git Actions:  
+Robot Framework e Git Actions:<br>  
 Project: https://github.com/reinaldorossetti/robot_samples_api_test  <br>
 Report: https://reinaldorossetti.github.io/robot_samples_api_test/allure-results/  <br>  
 
