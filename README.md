@@ -8,7 +8,14 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldorossetti&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-<br><br>
+<br>
+Mocha, Chai e Supertest Frameworks e Git Actions:
+Project: https://github.com/reinaldorossetti/poc_mocha_supertest  
+Report allure: (https://reinaldorossetti.github.io/poc_mocha_supertest/allure-report/#)  
+Report mochawesome: (https://reinaldorossetti.github.io/poc_mocha_supertest/report/#)  
+
+Report: 
+<br>
 Robot Framework e Git Actions:<br>  
 Project: https://github.com/reinaldorossetti/robot_samples_api_test  <br>
 Report: https://reinaldorossetti.github.io/robot_samples_api_test/allure-results/  <br>  
