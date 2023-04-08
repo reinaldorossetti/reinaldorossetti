@@ -14,7 +14,6 @@ Project: https://github.com/reinaldorossetti/poc_mocha_supertest<br>
 Report allure: (https://reinaldorossetti.github.io/poc_mocha_supertest/allure-report/#)<br>   
 Report mochawesome: (https://reinaldorossetti.github.io/poc_mocha_supertest/report/#)  
 
-Report: 
 <br>
 Robot Framework e Git Actions:<br>  
 Project: https://github.com/reinaldorossetti/robot_samples_api_test  <br>
