@@ -9,9 +9,9 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
   </a>
 </div>
 <br>
-Mocha, Chai e Supertest Frameworks e Git Actions:
-Project: https://github.com/reinaldorossetti/poc_mocha_supertest  
-Report allure: (https://reinaldorossetti.github.io/poc_mocha_supertest/allure-report/#)  
+Mocha, Chai e Supertest Frameworks e Git Actions:  
+Project: https://github.com/reinaldorossetti/poc_mocha_supertest<br>      
+Report allure: (https://reinaldorossetti.github.io/poc_mocha_supertest/allure-report/#)<br>   
 Report mochawesome: (https://reinaldorossetti.github.io/poc_mocha_supertest/report/#)  
 
 Report: 
