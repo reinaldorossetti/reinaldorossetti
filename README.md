@@ -11,9 +11,9 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
 />
 <img src="https://github-readme-stats.vercel.app/api?username=reinaldorossetti&show_icons=true" /> 
 </picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldorossetti&langs_count=7" />
   </a>
 </div>
+div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldorossetti&langs_count=7" /></div>
 <br>
 Mocha, Chai e Supertest Frameworks e Git Actions:<br>   
 Project: https://github.com/reinaldorossetti/poc_mocha_supertest<br>      
