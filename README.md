@@ -13,6 +13,7 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
 </picture>
   </a>
 </div>
+<br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldorossetti&langs_count=7&show_icons=true&theme=dark" /></div>
 <br>
 Mocha, Chai e Supertest Frameworks e Git Actions:<br>   
