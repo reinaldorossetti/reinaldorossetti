@@ -13,7 +13,7 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
   srcset="https://github-readme-stats.vercel.app/api?username=reinaldorossetti&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=reinaldorossetti&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=reinaldorossetti&show_icons=true&langs_count=8" />
 </picture>
   </a>
 </div>
@@ -22,20 +22,23 @@ Mocha, Chai e Supertest Frameworks e Git Actions:<br>
 Project: https://github.com/reinaldorossetti/poc_mocha_supertest<br>      
 Report allure: https://reinaldorossetti.github.io/poc_mocha_supertest/allure-report/#<br>   
 Report mochawesome: https://reinaldorossetti.github.io/poc_mocha_supertest/report/#<br>  
-
 <br>
-Robot Framework e Git Actions:<br>  
-Project: https://github.com/reinaldorossetti/robot_samples_api_test  <br>
-Report: https://reinaldorossetti.github.io/robot_samples_api_test/allure-results/  <br>  
-
+Robot Framework And Requests (API tests) e Git Actions:<br>  
+Project: https://github.com/reinaldorossetti/robot_samples_api_test<br>
+Report: https://reinaldorossetti.github.io/robot_samples_api_test/allure-results/<br>  
+<br>
+Robot Framework And Playwright (Web tests) e Git Actions:<br>  
+Project: https://github.com/reinaldorossetti/robot_atdd_playwright_saucedemo<br>
+Report: https://reinaldorossetti.github.io/robot_atdd_playwright_saucedemo/chromium/#<br>  
+<br>
 Cypress com Allure Report:    
-Project: https://github.com/reinaldorossetti/cypress-intermediario-v2  <br>
-Report: https://reinaldorossetti.github.io/cypress-intermediario-v2/allure-report  <br>
-
-Java com Playwright:  
-Project: https://github.com/reinaldorossetti/playwright-java.git  
-Report: https://reinaldorossetti.github.io/playwright-java/chrome/  
-
+Project: https://github.com/reinaldorossetti/cypress-intermediario-v2<br>
+Report: https://reinaldorossetti.github.io/cypress-intermediario-v2/allure-report<br>
+<br>
+Java com Playwright (Web tests):  
+Project: https://github.com/reinaldorossetti/playwright-java.git<br>  
+Report: https://reinaldorossetti.github.io/playwright-java/chrome/<br>  
+<br>
 Kotlin com Playwright (Web tests):  
 Project: https://github.com/reinaldorossetti/playwright-kotlin-junit5.git  
 Report: https://reinaldorossetti.github.io/playwright-kotlin-junit5/chrome/#  
