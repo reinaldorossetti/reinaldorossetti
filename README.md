@@ -13,7 +13,8 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
   srcset="https://github-readme-stats.vercel.app/api?username=reinaldorossetti&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=reinaldorossetti&show_icons=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=reinaldorossetti&show_icons=true" />
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldorossetti&langs_count=8)
 </picture>
   </a>
 </div>
