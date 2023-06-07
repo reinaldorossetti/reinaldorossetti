@@ -1,7 +1,7 @@
 ### Reinaldo M R Junir >> Welcome << 👋
 
 Bom dia pessoal, sou especialista em automação de testes, segue alguns projetos de automação como referência e boas práticas:  
-
+<br>
 <div align="center">
   <a href="https://github.com/reinaldorossetti">
 <picture>
