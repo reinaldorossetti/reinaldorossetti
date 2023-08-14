@@ -95,6 +95,7 @@ EXEMPLO DE AUTOMAÇÕES EM RUBY:
 https://github.com/reinaldorossetti/ruby-cucumber  
 https://github.com/reinaldorossetti/automationpractice_web  
 https://github.com/reinaldorossetti/automationpractice_mobile  
+https://github.com/reinaldorossetti/ruby-appium-rspec
 
 Projeto usando Robot para testes de API:
 https://github.com/reinaldorossetti/robot_openweather_api  
