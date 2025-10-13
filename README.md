@@ -21,13 +21,23 @@ Project: https://github.com/reinaldorossetti/poc_mocha_supertest<br>
 Report allure: https://reinaldorossetti.github.io/poc_mocha_supertest/allure-report/#<br>   
 Report mochawesome: https://reinaldorossetti.github.io/poc_mocha_supertest/report/#<br>  
 <br>
-Robot Framework And Requests (API tests) e Git Actions:<br>  
+
+<br><div>
+ROBOT FRAMEWORK (EXPERIÊNCIA AVANÇADA - MOBILE, WEB E API)
+
+MOBILE:
+Project: https://github.com/reinaldorossetti/mobile_appium_robot_framework
+
+API:
 Project: https://github.com/reinaldorossetti/robot_samples_api_test<br>
 Report: https://reinaldorossetti.github.io/robot_samples_api_test/allure-results/<br>  
-<br>
-Robot Framework And Playwright (Web tests) e Git Actions:<br>  
+
+WEB:
 Project: https://github.com/reinaldorossetti/robot_atdd_playwright_saucedemo<br>
 Report: https://reinaldorossetti.github.io/robot_atdd_playwright_saucedemo/chromium/#<br>  
+</div>
+<br>
+
 <br>
 Cypress com Allure Report:    
 Project: https://github.com/reinaldorossetti/cypress-intermediario-v2<br>
