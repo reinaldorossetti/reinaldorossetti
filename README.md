@@ -25,14 +25,14 @@ Report mochawesome: https://reinaldorossetti.github.io/poc_mocha_supertest/repor
 <br><div>
 ROBOT FRAMEWORK (EXPERIÊNCIA AVANÇADA - MOBILE, WEB E API)
 
-MOBILE:
+MOBILE:  
 Project: https://github.com/reinaldorossetti/mobile_appium_robot_framework
 
-API:
+API:  
 Project: https://github.com/reinaldorossetti/robot_samples_api_test<br>
 Report: https://reinaldorossetti.github.io/robot_samples_api_test/allure-results/<br>  
 
-WEB:
+WEB:  
 Project: https://github.com/reinaldorossetti/robot_atdd_playwright_saucedemo<br>
 Report: https://reinaldorossetti.github.io/robot_atdd_playwright_saucedemo/chromium/#<br>  
 </div>
