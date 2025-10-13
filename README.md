@@ -23,7 +23,7 @@ Report mochawesome: https://reinaldorossetti.github.io/poc_mocha_supertest/repor
 <br>
 
 <br><div>
-ROBOT FRAMEWORK (EXPERIÊNCIA AVANÇADA - MOBILE, WEB E API)
+ROBOT FRAMEWORK + Python (EXPERIÊNCIA AVANÇADA - MOBILE, WEB E API)
 
 MOBILE:  
 Project: https://github.com/reinaldorossetti/mobile_appium_robot_framework
