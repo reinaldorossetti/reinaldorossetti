@@ -26,8 +26,8 @@ Report allure: https://reinaldorossetti.github.io/poc_mocha_supertest/allure-rep
 Report mochawesome: https://reinaldorossetti.github.io/poc_mocha_supertest/report/#<br>  
 
 <br>
-WEB: 
-Cypress com Allure Report:    
+WEB:     
+Cypress com Allure Report:      
 Project: https://github.com/reinaldorossetti/cypress-intermediario-v2<br>
 Report: https://reinaldorossetti.github.io/cypress-intermediario-v2/allure-report<br>
 <br>
@@ -35,7 +35,7 @@ Report: https://reinaldorossetti.github.io/cypress-intermediario-v2/allure-repor
 <br>
 </div>
 <br><div>
-ROBOT FRAMEWORK + Python (EXPERIÊNCIA AVANÇADA - MOBILE, WEB E API)
+ROBOT FRAMEWORK + Python (EXPERIÊNCIA AVANÇADA - MOBILE, WEB E API)  
 
 MOBILE:  
 Project: https://github.com/reinaldorossetti/mobile_appium_robot_framework
