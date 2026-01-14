@@ -11,8 +11,6 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reinaldorossetti&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-![Status](./profile-3d-contrib/profile-green-animate.svg)
-
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reinaldorossetti&theme=github_dark&utcOffset=-3)](https://github.com/qajonatasmartins/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinaldorossetti&theme=github_dark)](https://github.com/qajonatasmartins/github-profile-summary-cards) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
