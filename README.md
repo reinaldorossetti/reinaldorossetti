@@ -18,6 +18,10 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
 <br>
 <br>
 <div>
+
+Um pouco sobre Qualidade de Software e Grupos de Estudos:
+https://github.com/reinaldorossetti/Welcome_QA_Engineer/blob/main/readme.MD
+  
 Playwright/Cypress/Supertest + JavaScript/JS (EXPERIÊNCIA AVANÇADA - MOBILE, WEB E API)
   
 <br> API: (Mocha, Chai e Supertest Frameworks e Git Actions):<br>   
@@ -30,6 +34,8 @@ WEB:
 Cypress com Allure Report:      
 Project: https://github.com/reinaldorossetti/cypress-intermediario-v2<br>
 Report: https://reinaldorossetti.github.io/cypress-intermediario-v2/allure-report<br>
+
+Playwright + Python + Github Actions + Docker
 <br>
 
 <br>
