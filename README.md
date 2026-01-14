@@ -54,7 +54,9 @@ https://github.com/reinaldorossetti/Welcome_QA_Engineer/blob/main/readme.MD
 - **Report:** https://reinaldorossetti.github.io/cypress-intermediario-v2/allure-report
 
 #### 🧩 Playwright + Python + Github Actions + Docker
-(Conteúdo mantido exatamente como enviado)
+- **Project:** https://github.com/reinaldorossetti/automation_playwright_python
+- **Python Pytest + Playwright:** https://www.linkedin.com/pulse/pytest-playwright-guia-definitivo-de-uso-do-em-python-reinaldo-8ynxf/?trackingId=FG7qcCkhTT%2B96OwTQuPuKQ%3D%3D
+- **Python Screenplay Pattern:** https://www.linkedin.com/pulse/arquitetura-de-testes-com-screenplay-e-python-mateus-rossetti-xjjgf/?trackingId=FG7qcCkhTT%2B96OwTQuPuKQ%3D%3D
 
 ---
 
