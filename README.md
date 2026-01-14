@@ -12,7 +12,6 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reinaldorossetti&layout=compact&&theme=onedark&exclude=html" stroke-opacity="1"/>
     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reinaldorossetti&theme=onedark&utcOffset=-3" stroke-opacity="1"/>
     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinaldorossetti&theme=onedark" stroke-opacity="1"/>
-    <img height="180em" src="https://github.com/reinaldorossetti/github-profile-summary-cards" stroke-opacity="1"/>
 </div>
 <br>
 
