@@ -2,28 +2,11 @@
 
 Bom dia pessoal, sou especialista em automação de testes, segue alguns projetos de automação como referência e boas práticas:  
 <br>
-<div align="center">
-  <a href="https://github.com/reinaldorossetti">
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=reinaldorossetti&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=reinaldorossetti&show_icons=true" /> 
-</picture>
-  </a>
-</div>
-<br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldorossetti&langs_count=7&show_icons=true&theme=dark" /></div>
-<br>
-<br>
-<div>
-
 <div align="center" width="50">
 </div>
 
 <div align="center">
-  <a href="https://github.com/qajonatasmartins"> 
+  <a href="https://github.com/reinaldorossetti"> 
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reinaldorossetti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reinaldorossetti&layout=compact&langs_count=7&theme=dark"/>
 </div>
