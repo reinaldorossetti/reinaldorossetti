@@ -26,11 +26,11 @@
 Bom dia pessoal, sou especialista em automação de testes, segue alguns projetos de automação como referência e boas práticas:
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=reinaldorossetti&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reinaldorossetti&layout=compact&langs_count=8&theme=onedark" alt="Top Languages" width="450">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reinaldorossetti&layout=compact&&theme=onedark&exclude=html" alt="Most Commit Language" width="450">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reinaldorossetti&theme=onedark&utcOffset=-3" alt="Productive Time" width="450">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinaldorossetti&theme=onedark" alt="Profile Details" width="450">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=reinaldorossetti&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450" height="200">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reinaldorossetti&layout=compact&langs_count=8&theme=onedark" alt="Top Languages" width="450" height="200">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reinaldorossetti&layout=compact&&theme=onedark&exclude=html" alt="Most Commit Language" width="450" height="200">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reinaldorossetti&theme=onedark&utcOffset=-3" alt="Productive Time" width="450" height="200">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinaldorossetti&theme=onedark" alt="Profile Details" width="450" height="200">
 </div>
 
 ---
@@ -46,7 +46,7 @@ https://github.com/reinaldorossetti/Welcome_QA_Engineer/blob/main/readme.MD
 Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter:
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D12AQEUyaaRtSXMAA/article-inline_image-shrink_1500_2232/B4DZrvVvgQG4AY-/0/1764952046058?e=1770249600&v=beta&t=B_-uOThBjO8oSzr-nBp-VSjCXRymfxl-g6nHnc9zb20" alt="Pirâmide de Testes" width="450">
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQEUyaaRtSXMAA/article-inline_image-shrink_1500_2232/B4DZrvVvgQG4AY-/0/1764952046058?e=1770249600&v=beta&t=B_-uOThBjO8oSzr-nBp-VSjCXRymfxl-g6nHnc9zb20" alt="Pirâmide de Testes" width="450" height="400">
 </div>
 
 - **Artigo LinkedIn:** https://www.linkedin.com/pulse/pir%25C3%25A2mide-de-testes-na-pr%25C3%25A1tica-testing-pyramid-context-reinaldo-ip9mf/?trackingId=FG7qcCkhTT%2B96OwTQuPuKQ%3D%3D
@@ -168,9 +168,9 @@ https://github.com/reinaldorossetti/reinaldorossetti/blob/main/CURRICULUM_VITAE_
 ## 🧠 Skills
 
 <div>
-  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="48">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48">
-  <img src="https://img.icons8.com/clouds/50/000000/ruby-programming-language.png" alt="Ruby" width="48">
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="48" height="48">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48">
+  <img src="https://img.icons8.com/clouds/50/000000/ruby-programming-language.png" alt="Ruby" width="48" height="48">
 </div>
 
 ---
