@@ -8,13 +8,27 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
 <div align="center">
   <a href="https://github.com/reinaldorossetti"> 
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reinaldorossetti&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reinaldorossetti&layout=compact&langs_count=8&theme=onedark&exclude=html"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reinaldorossetti&layout=compact&langs_count=8&theme=onedark"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reinaldorossetti&layout=compact&&theme=onedark&exclude=html" stroke-opacity="1"/>
     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reinaldorossetti&theme=onedark&utcOffset=-3" stroke-opacity="1"/>
     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinaldorossetti&theme=onedark" stroke-opacity="1"/>
     <img height="180em" src="https://github.com/reinaldorossetti/github-profile-summary-cards" stroke-opacity="1"/>
 </div>
+    <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=reinaldorossetti&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=reinaldorossetti&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=reinaldorossetti&show_icons=true" />
+</picture>
 <br>
+    <p>Teste</p>
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reinaldorossetti&theme=onedark&utcOffset=-3)](https://github.com/qajonatasmartins/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinaldorossetti&theme=onedark)]([https://github.com/reinaldorossetti/github-profile-summary-cards](https://github.com/reinaldorossetti/github-profile-summary-cards)) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Um pouco sobre Qualidade de Software e Grupos de Estudos:
 https://github.com/reinaldorossetti/Welcome_QA_Engineer/blob/main/readme.MD
