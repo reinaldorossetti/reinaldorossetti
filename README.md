@@ -7,8 +7,8 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
 
 <div align="center">
   <a href="https://github.com/reinaldorossetti"> 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reinaldorossetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reinaldorossetti&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=reinaldorossetti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reinaldorossetti&layout=compact&langs_count=7&theme=github_dark"/>
     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reinaldorossetti&theme=github_dark&exclude=html"/>
 </div>
 
