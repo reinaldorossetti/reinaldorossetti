@@ -15,9 +15,6 @@ Bom dia pessoal, sou especialista em automação de testes, segue alguns projeto
     <img height="180em" src="https://github.com/reinaldorossetti/github-profile-summary-cards" stroke-opacity="1"/>
 </div>
 <br>
-    <p>Teste</p>
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reinaldorossetti&theme=onedark&utcOffset=-3)](https://github.com/qajonatasmartins/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reinaldorossetti&theme=onedark)]([https://github.com/reinaldorossetti/github-profile-summary-cards](https://github.com/reinaldorossetti/github-profile-summary-cards)) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Um pouco sobre Qualidade de Software e Grupos de Estudos:
 https://github.com/reinaldorossetti/Welcome_QA_Engineer/blob/main/readme.MD
