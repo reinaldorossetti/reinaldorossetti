@@ -85,8 +85,9 @@ Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter
 
 ---
 
-## ☕ Java com Playwright
+## ☕ Java   
 
+### 🌐 Playwright (Web tests)
 - **Project:** https://github.com/reinaldorossetti/playwright-java.git
 - **Report:** https://reinaldorossetti.github.io/playwright-java/chrome/
 
