@@ -1,4 +1,4 @@
-# 👋 Bem-vindo! Sou Reinaldo — Especialista em Automação de Testes
+# 👋 Bem-vindo! Sou Reinaldo — Especialista em Automação de Testes e Análista QA SR
 
 **Automação • Qualidade de Software • Testes Web • API • Mobile • DevOps • Mentorias**
 
