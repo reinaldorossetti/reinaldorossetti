@@ -45,10 +45,6 @@ https://github.com/reinaldorossetti/Welcome_QA_Engineer/blob/main/readme.MD
 
 Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter:
 
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D12AQEUyaaRtSXMAA/article-inline_image-shrink_1500_2232/B4DZrvVvgQG4AY-/0/1764952046058?e=1770249600&v=beta&t=B_-uOThBjO8oSzr-nBp-VSjCXRymfxl-g6nHnc9zb20" alt="Pirâmide de Testes" width="450" height="400">
-</div>
-
 - **Artigo LinkedIn:** https://www.linkedin.com/pulse/pir%25C3%25A2mide-de-testes-na-pr%25C3%25A1tica-testing-pyramid-context-reinaldo-ip9mf/?trackingId=FG7qcCkhTT%2B96OwTQuPuKQ%3D%3D
 - **Projeto GitHub:** https://github.com/reinaldorossetti/calculadora-flutter
 
