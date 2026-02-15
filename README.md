@@ -91,6 +91,9 @@ Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter
 - **Project:** https://github.com/reinaldorossetti/playwright-java.git
 - **Report:** https://reinaldorossetti.github.io/playwright-java/chrome/
 
+### 🌐 Karate (API tests)
+- **Project:** https://github.com/reinaldorossetti/karate_api_java.git
+
 ---
 
 ## 🟣 Kotlin
