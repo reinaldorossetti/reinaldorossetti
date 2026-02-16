@@ -93,7 +93,6 @@ Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter
 
 ### 🌐 Karate (API tests)
 - **Project:** https://github.com/reinaldorossetti/karate_api_java.git
-URI do repositório: https://github.com/reinaldorossetti/karate_api_java
 - **Reporte na esteira:** https://reinaldorossetti.github.io/karate_api_java/karate-reports/karate-summary.html
 ---
 
