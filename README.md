@@ -91,9 +91,10 @@ Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter
 - **Project:** https://github.com/reinaldorossetti/playwright-java.git
 - **Report:** https://reinaldorossetti.github.io/playwright-java/chrome/
 
-### 🌐 Karate (API tests)
+### 🌐 Karate e RestAssured com Java 21 (API tests)
 - **Project:** https://github.com/reinaldorossetti/karate_api_java.git
-- **Reporte na esteira:** https://reinaldorossetti.github.io/karate_api_java/karate-reports/karate-summary.html
+- **Reporte na esteira:** [https://reinaldorossetti.github.io/karate_api_java/karate-reports/karate-summary.html](https://reinaldorossetti.github.io/karate-vs-restassured_api_java//karate-reports/karate-summary.html)
+
 ---
 
 ## 🟣 Kotlin
