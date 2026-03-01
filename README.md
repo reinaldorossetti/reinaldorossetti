@@ -70,18 +70,23 @@ Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter
 
 ---
 
-## 🤖 ROBOT FRAMEWORK + Python
+## Python
 
-### 📱 MOBILE
+### 📱 MOBILE - 🤖 ROBOT FRAMEWORK + 
 - **Project:** https://github.com/reinaldorossetti/mobile_appium_robot_framework
 
 ### 🔗 API
 - **Project:** https://github.com/reinaldorossetti/robot_samples_api_test
 - **Report:** https://reinaldorossetti.github.io/robot_samples_api_test/allure-results/
 
+- 🤖 ROBOT FRAMEWORK + 
+
 ### 🌐 WEB
 - **Project:** https://github.com/reinaldorossetti/robot_atdd_playwright_saucedemo
 - **Report:** https://reinaldorossetti.github.io/robot_atdd_playwright_saucedemo/chromium/#
+
+### Artigos Escritos:
+- Link: https://www.linkedin.com/pulse/guia-completo-de-playwright-api-testing-python-314-em-reinaldo-7iomf/
 
 ---
 
@@ -94,6 +99,9 @@ Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter
 ### 🌐 Karate e RestAssured com Java 21 (API tests)
 - **Project:** https://github.com/reinaldorossetti/karate_api_java.git
 - **Reporte na esteira:** [https://reinaldorossetti.github.io/karate_api_java/karate-reports/karate-summary.html](https://reinaldorossetti.github.io/karate-vs-restassured_api_java//karate-reports/karate-summary.html)
+
+### 🌐 Artigos Escritos:
+- Link: https://www.linkedin.com/in/reinaldo-mateus-rossetti-a28a5423/
 
 ---
 
