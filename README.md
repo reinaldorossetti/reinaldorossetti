@@ -86,7 +86,7 @@ Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter
 - **Report:** https://reinaldorossetti.github.io/robot_atdd_playwright_saucedemo/chromium/#
 
 ### Artigos Escritos:
-- Link: https://www.linkedin.com/pulse/guia-completo-de-playwright-api-testing-python-314-em-reinaldo-7iomf/
+- [Guia Completo de API com Playwright e Java 17.](https://www.linkedin.com/pulse/guia-completo-de-playwright-api-testing-python-314-em-reinaldo-7iomf/)
 
 ---
 
