@@ -101,7 +101,7 @@ Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter
 - **Reporte na esteira:** [https://reinaldorossetti.github.io/karate_api_java/karate-reports/karate-summary.html](https://reinaldorossetti.github.io/karate-vs-restassured_api_java//karate-reports/karate-summary.html)
 
 ### 🌐 Artigos Escritos:
-- Link: https://www.linkedin.com/in/reinaldo-mateus-rossetti-a28a5423/
+- [Guia Completo de API com Playwright e Java 17.](https://www.linkedin.com/pulse/guia-completo-de-api-com-playwght-e-java-em-reinaldo-mateus-rossetti-5qcff/?trackingId=JPvABcqqQ26eLd4ttCIymg%3D%3D)
 
 ---
 
