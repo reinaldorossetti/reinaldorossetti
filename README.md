@@ -1,7 +1,7 @@
 # 👋 Bem-vindo! Sou Reinaldo — Especialista em Automação de Testes e Análista QA SR
 
 **Automação • Qualidade de Software • Testes Web • API • Mobile • DevOps • Mentorias** <br>
-**Curriculum:** https://github.com/reinaldorossetti/english_learning/blob/main/CURRICULUM_VITAE_2025_EN.MD
+**Curriculum:** [CURRICULUM_VITAE_2025_EN](https://github.com/reinaldorossetti/english_learning/blob/main/CURRICULUM_VITAE_2025_EN.MD)
 ---
 
 ## 📑 Índice
