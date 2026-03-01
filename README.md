@@ -102,7 +102,7 @@ Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter
 
 ### 🌐 Artigos Escritos:
 - [Guia Completo de API com Playwright e Java 17.](https://www.linkedin.com/pulse/guia-completo-de-api-com-playwght-e-java-em-reinaldo-mateus-rossetti-5qcff/?trackingId=JPvABcqqQ26eLd4ttCIymg%3D%3D)
-
+- [Guia completo de Rest Assured e Java 21](https://www.linkedin.com/pulse/guia-completo-de-rest-assured-e-java-21-em-reinaldo-mateus-rossetti-sza5f/?trackingId=aOgxs7uxR4uge0ZdoCBl3A%3D%3D)
 ---
 
 ## 🟣 Kotlin
