@@ -52,7 +52,7 @@ Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter
 
 ## 🧪 Projetos de Automação
 
-### 🌐 Playwright / Cypress / Supertest + JavaScript
+### 🌐 JavaScript
 
 #### 🔥 API: Mocha, Chai e Supertest
 - **Project:** https://github.com/reinaldorossetti/poc_mocha_supertest
@@ -62,11 +62,6 @@ Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter
 #### 💻 WEB – Cypress com Allure
 - **Project:** https://github.com/reinaldorossetti/cypress-intermediario-v2
 - **Report:** https://reinaldorossetti.github.io/cypress-intermediario-v2/allure-report
-
-#### 🧩 Playwright + Python + Github Actions + Docker
-- **Project:** https://github.com/reinaldorossetti/automation_playwright_python
-- **Python Pytest + Playwright:** https://www.linkedin.com/pulse/pytest-playwright-guia-definitivo-de-uso-do-em-python-reinaldo-8ynxf/?trackingId=FG7qcCkhTT%2B96OwTQuPuKQ%3D%3D
-- **Python Screenplay Pattern:** https://www.linkedin.com/pulse/arquitetura-de-testes-com-screenplay-e-python-mateus-rossetti-xjjgf/?trackingId=FG7qcCkhTT%2B96OwTQuPuKQ%3D%3D
 
 ---
 
@@ -87,6 +82,11 @@ Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter
 
 ### Artigos Escritos:
 - [Guia Completo de API com Playwright e Java 17.](https://www.linkedin.com/pulse/guia-completo-de-playwright-api-testing-python-314-em-reinaldo-7iomf/)
+
+#### 🧩 Playwright + Python + Github Actions + Docker
+- **Project:** https://github.com/reinaldorossetti/automation_playwright_python
+- **Python Pytest + Playwright:** https://www.linkedin.com/pulse/pytest-playwright-guia-definitivo-de-uso-do-em-python-reinaldo-8ynxf/?trackingId=FG7qcCkhTT%2B96OwTQuPuKQ%3D%3D
+- **Python Screenplay Pattern:** https://www.linkedin.com/pulse/arquitetura-de-testes-com-screenplay-e-python-mateus-rossetti-xjjgf/?trackingId=FG7qcCkhTT%2B96OwTQuPuKQ%3D%3D
 
 ---
 
