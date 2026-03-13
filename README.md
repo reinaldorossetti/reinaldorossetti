@@ -63,6 +63,9 @@ Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter
 - **Project:** https://github.com/reinaldorossetti/cypress-intermediario-v2
 - **Report:** https://reinaldorossetti.github.io/cypress-intermediario-v2/allure-report
 
+#### 🔥 API: Playwright + TypeScript
+- **Project:** https://www.linkedin.com/pulse/guia-completo-de-playwright-api-testing-nodejs-24-em-mateus-rossetti-xn1qf/
+- **Report:** https://reinaldorossetti.github.io/playwright-api-typescript-serverest/allure-reports/#/
 ---
 
 ## Python
