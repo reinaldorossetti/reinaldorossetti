@@ -43,8 +43,11 @@ https://github.com/reinaldorossetti/Welcome_QA_Engineer/blob/main/readme.MD
 
 ## 🔺 Pirâmide de Testes
 
-Artigo sobre a aplicação prática da pirâmide de testes em um projeto Flutter:
-
+Web - Aplicação prática da pirâmide de testes Mobile em um projeto Flutter:
+- **Artigo LinkedIn:** https://www.linkedin.com/pulse/projeto-e-commerce-v02-com-pir%C3%A2mide-de-testes-mateus-rossetti-fprif/
+- **Projeto GitHub:** https://github.com/reinaldorossetti/amazonQA.com
+ 
+Mobile - Aplicação prática da pirâmide de testes Mobile em um projeto Flutter:
 - **Artigo LinkedIn:** https://www.linkedin.com/pulse/pir%25C3%25A2mide-de-testes-na-pr%25C3%25A1tica-testing-pyramid-context-reinaldo-ip9mf/?trackingId=FG7qcCkhTT%2B96OwTQuPuKQ%3D%3D
 - **Projeto GitHub:** https://github.com/reinaldorossetti/calculadora-flutter
 
