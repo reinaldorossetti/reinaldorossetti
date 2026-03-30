@@ -43,7 +43,7 @@ https://github.com/reinaldorossetti/Welcome_QA_Engineer/blob/main/readme.MD
 
 ## 🔺 Pirâmide de Testes
 
-Web - Aplicação prática da pirâmide de testes Mobile em um projeto Flutter:
+Web - Aplicação prática da pirâmide de testes Web em um projeto TypeScript/React/Next.js:
 - **Artigo LinkedIn:** https://www.linkedin.com/pulse/projeto-e-commerce-v02-com-pir%C3%A2mide-de-testes-mateus-rossetti-fprif/
 - **Projeto GitHub:** https://github.com/reinaldorossetti/amazonQA.com
  
