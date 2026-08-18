@@ -10,7 +10,7 @@
 - [🔺 Pirâmide de Testes](#-pirâmide-de-testes)
 - [🧪 Projetos de Automação](#-projetos-de-automação)
 - [🤖 ROBOT FRAMEWORK + Python](#-robot-framework--python)
-- [☕ Java com Playwright](#-java-com-playwright)
+- [☕ Projeto com Java](#-Java)
 - [🟣 Kotlin](#-kotlin)
 - [💎 Ruby](#-ruby)
 - [🎓 Cursos](#-cursos)
@@ -96,6 +96,10 @@ Mobile - Aplicação prática da pirâmide de testes Mobile em um projeto Flutte
 ---
 
 ## ☕ Java   
+
+### Rest-Assured
+- **Project:** [https://github.com/reinaldorossetti/serverest_restassured_java)
+- **Report:** [https://reinaldorossetti.github.io/serverest_restassured_java/allure-report/]
 
 ### 🌐 Playwright
 - **Project:** [https://github.com/reinaldorossetti/playwright-java.git](https://github.com/reinaldorossetti/playwright-api-java-serverest)
