@@ -97,19 +97,19 @@ Mobile - Aplicação prática da pirâmide de testes Mobile em um projeto Flutte
 
 ## ☕ Java   
 
-### Rest-Assured
+### ☕ Rest-Assured
 - **Project:** [https://github.com/reinaldorossetti/serverest_restassured_java)
 - **Report:** [https://reinaldorossetti.github.io/serverest_restassured_java/allure-report/]
 
-### 🌐 Playwright
+### ☕ Playwright
 - **Project:** [https://github.com/reinaldorossetti/playwright-java.git](https://github.com/reinaldorossetti/playwright-api-java-serverest)
 - **Report:** [https://reinaldorossetti.github.io/playwright-java/chrome/](https://reinaldorossetti.github.io/playwright-api-java-serverest/allure-reports/index.html)
 
-### 🌐 Karate e RestAssured com Java 21 (API tests)
+### ☕ Karate e RestAssured com Java 21 (API tests)
 - **Project:** https://github.com/reinaldorossetti/karate_api_java.git
 - **Reporte na esteira:** [https://reinaldorossetti.github.io/karate_api_java/karate-reports/karate-summary.html](https://reinaldorossetti.github.io/karate-vs-restassured_api_java//karate-reports/karate-summary.html)
 
-### 🌐 Artigos Escritos:
+### ☕ Artigos Escritos:
 - [Guia Completo de API com Playwright e Java 17.](https://www.linkedin.com/pulse/guia-completo-de-api-com-playwght-e-java-em-reinaldo-mateus-rossetti-5qcff/?trackingId=JPvABcqqQ26eLd4ttCIymg%3D%3D)
 - [Guia completo de Rest Assured e Java 21](https://www.linkedin.com/pulse/guia-completo-de-rest-assured-e-java-21-em-reinaldo-mateus-rossetti-sza5f/?trackingId=aOgxs7uxR4uge0ZdoCBl3A%3D%3D)
 ---
